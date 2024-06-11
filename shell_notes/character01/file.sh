@@ -26,6 +26,8 @@ FILE="./static/user.txt"
 #wc -l < ${FILE}
 #wc -w ${FILE}
 
+# 测试git commit template好不好用
+
 
 
 
